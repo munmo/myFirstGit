@@ -1,12 +1,12 @@
 # My First Git - Week 2
 ## Description
-### Week 2 workshop for 3813 ICT Software Frameworks.
+Week 2 workshop for 3813 ICT Software Frameworks.
 
 ## Installation
-### By using <mark>git clone</mark>, clone the repo to copy the script to your local machine. 
+By using <mark>git clone</mark>, clone the repo to copy the script to your local machine. 
 
 ## Run
-### Open a terminal and run the command <mark>node index.js</mark> in the directory.
+Open a terminal and run the command <mark>node index.js</mark> in the directory.
 
 | Week | Content |
 | ---- | ------------------------------ |
